@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Contact List</string>
+    <string name="display_a_list_of_contacts">display a list of contacts</string>
+    <string name="display_map">display map</string>
+    <string name="display_settings">display settings</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="save">Save</string>
+</resources>
